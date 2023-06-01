@@ -1,14 +1,14 @@
 ### Hi, I'm Urim Seo 
 
-<div align=center><h2> 👩‍💻 About Me </h2></div>
+<div><h3> 👩‍💻 About Me </h3></div>
 <div>
-    <p>🔥 **새로운 기술**에 도전하는 것을 두려워하지 않으며, **빠른 습득력**이 장점입니다.</p><br>
-    <p>👨🏾‍🤝‍👨🏻 프로젝트에서 **소통**과 **협업**을 가장 중요시 합니다.</p><br>
-    <p>⏱ 구현에 그치지 않고, 프로젝트의 **설계**와 **효율성**에 대해 많은 고민을 합니다.</p><br>
-    <p>🌳 새로운 가치를 창출하는 **서비스 기획**에 관심이 있습니다.</p><br>
+    <p>🔥 **새로운 기술**에 도전하는 것을 두려워하지 않으며, **빠른 습득력**이 장점입니다.</p>
+    <p>👨🏾‍🤝‍👨🏻 프로젝트에서 **소통**과 **협업**을 가장 중요시 합니다.</p>
+    <p>⏱ 구현에 그치지 않고, 프로젝트의 **설계**와 **효율성**에 대해 많은 고민을 합니다.</p>
+    <p>🌳 새로운 가치를 창출하는 **서비스 기획**에 관심이 있습니다.</p>
 </div>
-<div align=center><h2> 📚 STACKS</h2></div>
-<div align=center> 
+<div><h3> 📚 STACKS</h3></div>
+<div> 
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
