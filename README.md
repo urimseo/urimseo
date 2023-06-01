@@ -1,6 +1,5 @@
-### Hi, I'm Urim Seo 
+### Hi, I'm Urim Seo 🤸‍♀️
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Back-end%20Developer&fontSize=90" />
 <div>
     <p>🔥 새로운 기술에 도전하는 것을 두려워하지 않으며, 빠른 습득력이 장점입니다.</p>
     <p>👨🏾‍🤝‍👨🏻 프로젝트에서 소통과 협업을 가장 중요시 합니다.</p>
